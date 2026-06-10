@@ -1,7 +1,7 @@
 CASE WRITE-UP #01
 ================================
 Title: Phishing Email - PayPal Campaign
-Date: 2026-01-XX
+Date: 2026-06-01
 Severity: High
 Platform: LetsDefend
 
