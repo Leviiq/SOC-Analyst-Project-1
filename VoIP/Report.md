@@ -1,4 +1,4 @@
-SOC Alert Triage Log
+CASE WRITE-UP #03
 ================================
 Challenge: VoIP (Vishing)
 Date: 2026-06-09
