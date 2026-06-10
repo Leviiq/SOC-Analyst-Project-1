@@ -1,4 +1,4 @@
-CASE WRITE-UP #02
+CASE WRITE-UP #01
 ================================
 Title: DanaBot - Malicious JavaScript Delivery
 Date: 2026-06-09
