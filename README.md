@@ -31,27 +31,27 @@ It includes structured case studies covering phishing attacks and malware analys
 
 ## Skills Developed 
 
-Technical Skills:
+### 1. Technical Skills:
 
-Alert triage and classification
-Log analysis (Windows Event, network, email)
-SIEM navigation and log correlation
-IOC identification and validation
-Threat intelligence platform usage
-Incident documentation and reporting
+- Alert triage and classification
+- Log analysis (Windows Event, network, email)
+- SIEM navigation and log correlation
+- IOC identification and validation
+- Threat intelligence platform usage
+- Incident documentation and reporting
+
+### 2. Frameworks & Methodologies:
+
+- Cyber Kill Chain
+- MITRE ATT&CK Framework (basic tactics/techniques)
+- Incident response phases (detection, analysis, containment)
  
-Frameworks & Methodologies:
+### 3. Soft Skills:
 
-Cyber Kill Chain
-MITRE ATT&CK Framework (basic tactics/techniques)
-Incident response phases (detection, analysis, containment)
- 
-Soft Skills:
-
-Time management under alert load
-Decision-making under uncertainty
-Technical writing (reports, escalations)
-Pattern recognition and critical thinking
+- Time management under alert load
+- Decision-making under uncertainty
+- Technical writing (reports, escalations)
+- Pattern recognition and critical thinking
  
 ---
 
