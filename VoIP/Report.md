@@ -1,15 +1,19 @@
 CASE WRITE-UP #03
 ================================
+
 Challenge: VoIP (Vishing)
+
 Date: 2026-06-09
 Severity: High
 Platform: LetsDefend
+
 ================================
 
 Hypothesis:
 An external attacker conducted a voice phishing (Vishing) attack by impersonating a bank and targeting employee James (extension 7001) in order to obtain sensitive personal information.
 
 ================================
+
 Investigation Steps:
 1. Opened the PCAP file using Wireshark.
 2. Filtered SIP traffic to identify call initiation events (SIP INVITE).
@@ -18,6 +22,7 @@ Investigation Steps:
 5. Verified impersonation details and sensitive information disclosed during the call.
 
 ================================
+
 Evidence:
 | Evidence Type | Description |
 |---------------|-------------|
@@ -26,6 +31,7 @@ Evidence:
 | Call Content | Sensitive information including Social Number (5678) was disclosed |
 
 ================================
+
 Tools Used:
 - Wireshark
 
@@ -42,20 +48,24 @@ IOCs:
 - 2024-05-03 20:36:36 UTC (Call initiation timestamp)
 
 ================================
+
 Classification:
 True Positive
 
 ================================
+
 Containment Actions:
 - Blocked the malicious phone number (01326947697) in the VoIP system.
 - Terminated the suspicious call targeting extension 7001.
 - Flagged call records and logs for further SOC monitoring and investigation.
 
 ================================
+
 Time to Complete:
 00:10:00
 
 ================================
+
 Lessons Learned:
 - VoIP systems can be exploited using social engineering techniques such as Vishing.
 - Users should be trained to verify callers before sharing any sensitive information.
