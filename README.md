@@ -1,24 +1,51 @@
-SOC Analyst Project 1
+# SOC Analytic
 
-This repository contains hands-on cybersecurity incident response and SOC analysis projects.
+## Overview
+This repository demonstrates hands-on cybersecurity incident response and SOC analysis through real-world style investigations.
 
-Projects included:
-- Phishing Email Investigation
-- Malware Analysis (DanaBot)
-- Malware Analysis (Red Stealer)
+It includes structured case studies covering phishing attacks and malware analysis scenarios.
 
-Skills demonstrated:
-- Alert triage and investigation
-- Email header analysis
-- Malware behavior analysis
-- Network traffic analysis
-- IOC extraction
+---
+
+## Case Studies
+
+### 1. Phishing Email Investigation
+- Email analysis and header inspection
+- Suspicious URL identification
+- Phishing indicators detection
 - MITRE ATT&CK mapping
 
-Tools used:
-- Wireshark
-- SIEM platforms (labs)
-- VirusTotal
-- Cybersecurity training labs
+### 2. DanaBot Malware Investigation
+- Process tree analysis
+- Network traffic inspection
+- Command and Control (C2) detection
+- IOC extraction and correlation
 
-This project is part of a structured SOC learning journey focused on building real-world incident response skills.
+### 3. Red Stealer Malware Investigation
+- Malicious process behavior analysis
+- Data exfiltration indicators
+- Network communication analysis
+- Threat intelligence mapping
+
+---
+
+## Skills Demonstrated
+- SOC Alert Triage
+- Incident Investigation
+- Malware Analysis
+- Network Traffic Analysis (Wireshark)
+- IOC Extraction
+- MITRE ATT&CK Framework
+
+---
+
+## Tools Used
+- Wireshark
+- Cybersecurity lab environments
+- Threat intelligence tools
+- SIEM platforms (simulated labs)
+
+---
+
+## Purpose
+This project is part of a structured SOC learning journey focused on building job-ready cybersecurity skills and a professional incident response portfolio.
