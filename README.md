@@ -29,14 +29,30 @@ It includes structured case studies covering phishing attacks and malware analys
 
 ---
 
-## Skills Demonstrated
-- SOC Alert Triage
-- Incident Investigation
-- Malware Analysis
-- Network Traffic Analysis (Wireshark)
-- IOC Extraction
-- MITRE ATT&CK Framework
+## Skills Developed 
 
+Technical Skills:
+
+ Alert triage and classification
+ Log analysis (Windows Event, network, email)
+ SIEM navigation and log correlation
+ IOC identification and validation
+ Threat intelligence platform usage
+ Incident documentation and reporting
+ 
+Frameworks & Methodologies:
+
+ Cyber Kill Chain
+ MITRE ATT&CK Framework (basic tactics/techniques)
+ Incident response phases (detection, analysis, containment)
+ 
+Soft Skills:
+
+ Time management under alert load
+ Decision-making under uncertainty
+ Technical writing (reports, escalations)
+ Pattern recognition and critical thinking
+ 
 ---
 
 ## Tools Used
