@@ -36,6 +36,7 @@ Tools Used:
 - Wireshark
 
 ================================
+
 MITRE ATT&CK Mapping:
 - T1566 - Phishing (Initial Access) 
 - T1598 - Phishing for Information (Reconnaissance)
